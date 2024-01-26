@@ -10,7 +10,7 @@ These two circular movements will be simulated with two different rates, determi
 <img src="./figures/pwm.png" width="50%" height="50%">
 
 ## Flowchart
-<img src="./figures/flowchart.png" width="50%" height="50%">
+<img src="./figures/flowchart.png" width="70%" height="70%">
 
 ## Implementation Details
 - Circular motion of the base is activated, simulated with a pulse period Tb = 2 ms and a duty cycle Db = 40%. This pulse drives LED1 of PORTD through rising edges.
